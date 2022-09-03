@@ -1,0 +1,14 @@
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\bin\Debug\Odev2708Sehirler.exe.config
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\bin\Debug\Odev2708Sehirler.exe
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\bin\Debug\Odev2708Sehirler.pdb
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\bin\Debug\DataAccessLayer.dll
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\bin\Debug\DataAccessLayer.pdb
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.csproj.AssemblyReference.cache
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.Form1.resources
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.Properties.Resources.resources
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.csproj.GenerateResource.cache
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.csproj.CoreCompileInputs.cache
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.csproj.CopyComplete
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.exe
+C:\Users\Doğuş\source\repos\Odev2708Sehirler\Odev2708Sehirler\obj\Debug\Odev2708Sehirler.pdb
